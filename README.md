@@ -43,4 +43,4 @@ SQLite for local storage
 
 <a id="demo"></a>
 ## 6. Demo video link
-THe demo youtube video link is: https://youtu.be/A0-z7H0wMP4
+The demo youtube video link is: https://youtu.be/A0-z7H0wMP4
