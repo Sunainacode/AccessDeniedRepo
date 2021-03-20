@@ -1,4 +1,4 @@
-MEDLOCATE
+## MEDLOCATE
 Medlocate has come to rescue for all those who are new to a location or haven't explored the place much. In situations when there is a medical emergency, now we don't need to go to our not-so-friendly neighbours or friends. Just have the app installed and you are good to go!
 
 1. [ Description. ](#desc)
