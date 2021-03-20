@@ -16,7 +16,7 @@ Medlocate is an android application that helps in tracking the nearby medical st
 ## 2. Usage tips
 The interface of the app has been designed keeping in mind the target audience and their comfort. The UI is quite simple to understand and has high learnability. For first time users, you need to create a new account or can use a guest session. The only drawback of guest session as of now is that you won't be able to mark a favourite location or access it in offline mode. This feature is only available for registered users keeping in mind the safety issues and storage complications. A hamburger drawer is provided in the left hand side to navigate through various features of the android application. The icons are self explanatory and this all is ensured for user convenience and good user experience.
 
-<a id"motive"></a>
+<a id="motive"></a>
 ## 3. Motivation
 The major motivation for such an application is the difficulties faced by people who keep travelling and need to navigate through a medical store or hospital in case of emergency. Also for people who shift from one location to another need an application like this so that they are not easily fooled by unknown and untrustworthy people of that particular area. Many a times people are fooled by giving wrong directions and medical emergencies can't afford this kind of pranks or ugly humour. This app not only tells the nearby stores or hospitals but also navigates the user to those stores or hospitals to avoid confusions and wastage of time.
 
